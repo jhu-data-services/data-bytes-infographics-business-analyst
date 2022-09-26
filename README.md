@@ -17,11 +17,23 @@ As of March 2020, Data Services workshops are being held virtually on Zoom. This
 No prep is required to attend this workshop.
 
 
+## ArcGIS Online Group
+An [ArcGIS Online group](https://gisanddata.maps.arcgis.com/home/group.html?id=0cf602de3dfb425ba0a3236eea11a529) has been set up for this workshop, and contains the feature layer and web map used in the demonstration, as well as a sample custom infographic template. Accessing this group requires signing into [JHU's ArcGIS Online organization](https://gisanddata.maps.arcgis.com/) with an active JHED ID. For more information on JHU's Esri software and services, see the [Esri Software Access Libguide](https://guides.library.jhu.edu/gis).
+
+
 ## Description of Files
-- SampleResults: This folder contains results produced during the workshop live demo:
-    - [file1]
-    - [file2]
-    - [file3]
+- SampleResults: This folder contains results produced for the workshop. During the live demonstration, similar files will be produced:
+    - InfographicSample1: a folder containing image files created by running the "Health Care and Insurance Statistics" Esri infographic template on a selected health care clinic.
+        - "HealthCareInsuranceStats1.png" - shows health care insurance stats for a 5 minute walk buffer of Parkwest Health System.
+        - "HealthCareInsuranceStats2.png" - shows health care insurance stats for a 10 minute walk buffer of Parkwest Health System.
+        - "HealthCareInsuranceStats3.png" - shows health care insurance stats for a 15 minute walk buffer of Parkwest Health System.
+    - InfographicSample2: a folder containing image files created by designing a custom infographic using Business Analyst. 
+        - "custom1.png" - shows a custom infographic for a 5 minute walk buffer of Parkwest Health System.
+        - "custom2.png" - shows a custom infographic for a 10 minute walk buffer of Parkwest Health System.
+        - "custom3.png" - shows a custom infographic for a 15 minute walk buffer of Parkwest Health System.
+        - "custom4.png" - shows a custom infographic for the city of Baltimore.
+        - "custom5.png" - shows a custom infographic comparing all four prior infographics side by side.
+    - "Medical_Expenditures_CentralParkNeighborhood.xlsx" - an excel spreadsheet created by running the "Medican Expenditures" Esri report template on a neighborhood in Baltimore.  
 - PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
 - Resources: This folder contains gifs referencing step by step instructions. These gifs are included in the PowerPoint presentation as well.
 
