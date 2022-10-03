@@ -52,4 +52,4 @@ The images, external resources, and cheatsheets linked in this repository may ha
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. [Workshop title]. [URL]
+Johns Hopkins University Data Services. September 26, 2022. Creating Infographics with Business Analyst. https://github.com/jhu-data-services/data-bytes-infographics-business-analyst.
